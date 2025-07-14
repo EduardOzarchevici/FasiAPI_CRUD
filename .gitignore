@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+venv/
+env/
+.venv/
+
+.idea/
+
+# Fișiere locale OS
+.DS_Store
+Thumbs.db
+
+.env
+
+*.dockerignore
+Dockerfile
+docker-compose.yml
